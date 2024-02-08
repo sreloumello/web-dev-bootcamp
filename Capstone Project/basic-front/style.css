@@ -1,0 +1,18 @@
+.nav-link {
+    color: #1B48AB;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    image-rendering: auto;
+}
+
+.logo {
+    display: flex;
+    padding: 0 20% 0 20%;
+}
+
+.copyright {
+    color: #9F40B6;
+}
